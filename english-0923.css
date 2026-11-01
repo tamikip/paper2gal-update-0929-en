@@ -1,0 +1,23 @@
+body{font-family:Bahnschrift,"Segoe UI",Arial,sans-serif}
+.poster{background:radial-gradient(ellipse at 12% 18%,#74374480,transparent 36%),radial-gradient(ellipse at 100% 65%,#321b2855,transparent 38%),repeating-linear-gradient(117deg,transparent 0 110px,#1208150a 110px 112px,transparent 112px 226px),#552332}
+.brand,.hero-title,.hero-ribbon,.red-seal,.section-heading,.banner-title,.banner-tag,.label,.closing h2{font-family:Bahnschrift,"Arial Black","Segoe UI",sans-serif;font-weight:900}
+.brand{font-size:26px;font-style:normal}.hero-date{font-family:Bahnschrift,"Arial Black",sans-serif;font-size:156px;left:163px}.hero-date small{font-size:29px;letter-spacing:0;margin-left:13px;vertical-align:38px}
+.hero-title{left:114px;top:838px;width:790px;font-size:51px;line-height:1.1;letter-spacing:-1px;text-align:center;transform:rotate(-2deg)}
+.red-seal{font-size:27px}.red-seal small{font-size:9px}
+.hero-summary{left:140px;right:110px;top:932px;font-size:19px;line-height:1.4;letter-spacing:.1px}.hero-ribbon{font-size:23px;font-style:normal;letter-spacing:2px;margin-bottom:5px}
+.section-wrap{margin-bottom:110px}.paper{padding:165px 55px 48px}.section-heading{font-size:31px;letter-spacing:.3px;width:750px;line-height:1.12;top:42px;height:91px;padding:20px 40px 20px 56px;white-space:nowrap}
+.section-wrap .tape:after{content:"UPDATE NOTES"}.math .tape:after{content:"STEAM & TOOLS"}.linux .tape:after{content:"EXPERIMENTAL"}
+.section-banner{margin-bottom:30px}.banner-title{font-size:45px;line-height:1.06;letter-spacing:0;top:77px;left:29px;text-shadow:0 3px 5px #10152699}.banner-title em{font-style:normal}
+.banner-tag{font-size:14px;letter-spacing:1px;bottom:28px;padding:6px 12px}
+.banner-bottom{display:block!important;bottom:8px;right:13px;left:auto;font-size:8px;letter-spacing:1px;background:#1e2438a8;padding:4px 5px}
+.banner-inner:before{background:linear-gradient(90deg,#18202caa,transparent 56%);z-index:1}
+.content{text-align:left;padding:0 9px}.label{margin:24px 0 10px;font-size:18px;letter-spacing:1px;text-indent:0;transform:rotate(-1deg);padding:7px 15px}
+.copy{font:600 22px/1.53 Bahnschrift,"Segoe UI",Arial,sans-serif;letter-spacing:0;margin:0 0 16px}.copy strong{font-weight:900;color:#9b4639}
+.bullet{position:relative;padding:0 0 0 22px}.bullet:before{content:"✦";position:absolute;left:0;top:0;color:#aa493b;font-size:16px}
+.paper-footer{font-size:10px;letter-spacing:1px}.paper-footer b{font-size:10px}
+.linux .banner-inner{background:radial-gradient(circle at 82% 36%,#8e829b,transparent 38%),linear-gradient(115deg,#303344,#444154 65%,#776478)}
+.linux .banner-inner:after{content:"EXPERIMENTAL · PACKAGE PENDING";position:absolute;right:21px;top:115px;width:245px;height:88px;border:2px solid #f4ecd8a8;border-radius:13px;display:grid;place-items:center;color:#f4ecd8;font:700 17px Bahnschrift,Arial,sans-serif;text-align:center;letter-spacing:1px;transform:rotate(7deg)}
+.linux .banner-title{font-size:48px;top:75px}.linux .paper{padding-top:160px}.linux .content{background:#fff8e5;border-left:5px solid #bc694f;padding:10px 22px 8px}
+.linux .content .label{margin-top:10px}.linux .copy{font-size:23px}
+.closing h2{font-size:34px;letter-spacing:0}.closing p{font-size:20px}.closing small{font-size:10px}
+@media print{body{background:#552332}}

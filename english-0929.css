@@ -1,0 +1,18 @@
+.hero-title{left:94px;width:840px;font-size:45px}
+.hero-summary{left:145px;right:125px;top:926px;font-size:18px;line-height:1.36}
+.hero-ribbon{margin-bottom:5px}
+.section-heading{font-size:29px;width:785px;padding-left:43px}
+.section-wrap .tape:after{content:"NEW FEATURE"}.music .tape:after{content:"ACTION REQUIRED"}.polish .tape:after{content:"MORE FIXES"}.linux .tape:after{content:"EXPERIMENTAL"}
+.section-wrap .paper{padding-top:162px}
+.copy{font-size:23px;line-height:1.52}
+.banner-title{font-size:44px}
+.music .banner-inner{background:radial-gradient(circle at 76% 30%,#b78d9b88,transparent 35%),linear-gradient(115deg,#2a3843,#463b54 67%,#9a6883)}
+.music .banner-inner:after{content:"♫";position:absolute;right:88px;top:17px;color:#f7decd;font:italic 235px/1 Georgia,serif;transform:rotate(12deg);opacity:.55}
+.music .banner-title,.music .banner-tag{z-index:5}
+.music .banner-title em{color:#ffd2d6}
+.notice{background:#fff0dc;border-left:6px solid #bb5341;padding:4px 17px 8px;margin:26px 0 10px;box-shadow:3px 4px #be947f55}
+.notice .label{background:#9b3c34}
+.notice .copy{font-size:23px;font-weight:800}
+.polish .banner-title em{color:#f7cdb5}
+.linux .banner-title{font-size:47px}
+.linux .banner-inner:after{content:"EXPERIMENTAL · FEEDBACK WELCOME"}

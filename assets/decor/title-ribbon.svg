@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 106">
+<defs><pattern id="dots" width="15" height="15" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="5" fill="#e9836c"/></pattern><linearGradient id="fade"><stop stop-color="white"/><stop offset=".3" stop-color="black"/></linearGradient><mask id="f"><rect width="740" height="106" fill="url(#fade)"/></mask></defs>
+<path d="m39 12 645-3-19 83-616-13Z" fill="#705149"/>
+<path d="M0 6 725 12 707 80 13 84Z" fill="#ae4737"/>
+<path d="M0 6 725 12 707 80 13 84Z" fill="url(#dots)" mask="url(#f)" opacity=".65"/>
+<path d="m353 10 333-9-4 11Z" fill="#c56b59" opacity=".65"/>
+<circle cx="14" cy="19" r="4.2" fill="#512c2d"/>
+</svg>
